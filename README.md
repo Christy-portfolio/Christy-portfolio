@@ -23,5 +23,4 @@ Explore my repositories to see my data analytics projects and practical work.
 
 I'm always open to learning, collaboration, and opportunities to grow in the data field.
 
-- [LinkedIn](www.linkedin.com/in/olaoluwa-oluwadamilola-3b5886247)
-
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/olaoluwa-oluwadamilola-3b5886247/)
