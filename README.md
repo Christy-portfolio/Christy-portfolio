@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Christy 👋
 
-<!--
-**Christy-portfolio/Christy-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about turning raw data into meaningful insights that support better decision-making.
 
-Here are some ideas to get you started:
+### Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Excel
+- Power BI
+- SQL
+- Python
+- Power Query
+
+### Currently Learning
+
+- Data Science
+- Artificial Intelligence (AI)
+
+### Projects
+
+Explore my repositories to see my data analytics projects and practical work.
+
+### Let's Connect
+
+I'm always open to learning, collaboration, and opportunities to grow in the data field.
+
+- [LinkedIn](www.linkedin.com/in/olaoluwa-oluwadamilola-3b5886247)
+
